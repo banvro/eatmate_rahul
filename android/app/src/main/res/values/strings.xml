@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">eatmates</string>
+    
+<string name="facebook_app_id">1072508130346260</string>
+<string name="fb_login_protocol_scheme">fb1072508130346260</string>
+<string name="facebook_client_token">33f4931ccbf58ee141e90b01fac8010d</string>
+
+
+</resources>

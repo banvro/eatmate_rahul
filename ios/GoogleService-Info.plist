@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>773130259136-rg9h8gpgskf0405rkik1cshjq6b2vpot.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.773130259136-rg9h8gpgskf0405rkik1cshjq6b2vpot</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>773130259136-naktjde6ci96q5v8lrtbr24fhkvv2tq0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZqSZV-xbn2d-9X2BKCEjh85czsKrWLQ4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>773130259136</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.eatmates</string>
+	<key>PROJECT_ID</key>
+	<string>eatmates-8fb5a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eatmates-8fb5a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:773130259136:ios:321b1e9d7a32c3b7523b25</string>
+</dict>
+</plist>

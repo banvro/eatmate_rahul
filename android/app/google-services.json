@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "773130259136",
+    "project_id": "eatmates-8fb5a",
+    "storage_bucket": "eatmates-8fb5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773130259136:android:9853ad6008388165523b25",
+        "android_client_info": {
+          "package_name": "com.eatmates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773130259136-naktjde6ci96q5v8lrtbr24fhkvv2tq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eatmates",
+            "certificate_hash": "151ae01f8d413937f29694310eadaa90512eba1c"
+          }
+        },
+        {
+          "client_id": "773130259136-6ium5oqursa05jf8uvridn7f17adj96a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW356aJxItyXFy7yXep9aEpPQs9AA63EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773130259136-6ium5oqursa05jf8uvridn7f17adj96a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
